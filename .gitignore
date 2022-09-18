@@ -1,3 +1,5 @@
 /node_modules/
 /.artifacts/
 .DS_Store
+data/channels.csv
+*.csv
